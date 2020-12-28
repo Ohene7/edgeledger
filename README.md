@@ -2,7 +2,7 @@
 ### A fictional finance company | 
 #### Made using HTML, CSS, and very little JavaScript
 
-#Live Site:
+# Live Site:
 [Click Here](https://ohene7.github.io/edgeledger/)
 
 # Screenshots:
